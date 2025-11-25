@@ -1,0 +1,28 @@
+---
+title: "Field Safety"
+author: "Natlie Ceperley"
+date: "November 25th, 2025"
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
+---
+
+
+## Goal 
+
+## Equiment
+
+## Preparation
+
+## Field Steps
+
+## Follow-up 
+
+## Tips 
+
+## References
