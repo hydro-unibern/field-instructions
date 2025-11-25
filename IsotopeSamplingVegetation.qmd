@@ -1,6 +1,6 @@
 ---
 title: "Isotope Sampling Vegetation"
-author: "Natlie Ceperley"
+author: "Natalie Ceperley"
 date: "November 25th, 2025"
 toc: true
 format:

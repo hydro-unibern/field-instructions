@@ -16,10 +16,10 @@ execute:
 
 # Welcome to DIY Fieldwork [Under construction] {.unnumbered}
 
-This site provides an overview and accompany manual for use of our field and laboratory equipment in the Hydrology Group at the [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are:
+This site provides an overview and accompaning manual for use of our field and laboratory equipment in the Hydrology Group at the [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are:
 Ueli Ammann, University of Bern, ueli.ammann  unibe.ch
 Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch
-Natalie Ceperley, University of Bern, natalie ceperley unibe.ch
+Natalie Ceperley, University of Bern, natalie.ceperley unibe.ch
 
 Use the navigation pane to explore each experiment.
 
@@ -27,18 +27,19 @@ Use the navigation pane to explore each experiment.
 
 # Contents
 
+# Administration and Planning
 LabAcess.qmd                    
 EquipmentInventory.qmd          
 BatteryManagement.qmd   
 Transportation.qmd
 FieldSafety.qmd       
 
+# Discharge mMeasurement
 SaltDischarge.qmd
 Flourimeter.qmd    
 
-ExoProbe.qmd                    
 
-
+# Isotopes of Water
 IsotopeSamplingWater.qmd
 IsotopeSamplingSnow.qmd
 IsotopeSamplingSoil.qmd
@@ -46,7 +47,14 @@ IsotopeSamplingVegetation.qmd
 IsotopeAnalysis.qmd             
 IsotopePostprocessing.qmd       
 
+# Water Quality beyond Isotopes
 TotalIons.qmd
+ExoProbe.qmd    
+ElectricalConductivity.qmd
+
+# Sensors
+eLAB 
+
 
 ## License
 
