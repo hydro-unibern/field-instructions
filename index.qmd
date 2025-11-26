@@ -1,8 +1,9 @@
 ---
 title: "Field Instructions Welcome"
 author: "Natlie Ceperley"
-date: "November 25th, 2025"
+date: "November 25, 2025"
 toc: true
+toc-depth: 3
 format:
   html:
     html-math-method: katex
@@ -12,48 +13,42 @@ execute:
   warning: false
 ---
 
-## Introduction
+## Welcome to DIY Fieldwork [Under construction] {.unnumbered}
 
-# Welcome to DIY Fieldwork [Under construction] {.unnumbered}
-
-This site provides an overview and accompaning manual for use of our field and laboratory equipment in the Hydrology Group at the [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are:
-Ueli Ammann, University of Bern, ueli.ammann  unibe.ch
-Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch
-Natalie Ceperley, University of Bern, natalie.ceperley unibe.ch
-
-Use the navigation pane to explore each experiment.
-
-[Please report any questions/bugs to](https://github.com/hydro-unibern/DIY-fieldwork/issues)
-
-# Contents
-
-# Administration and Planning
-LabAcess.qmd                    
-EquipmentInventory.qmd          
-BatteryManagement.qmd   
-Transportation.qmd
-FieldSafety.qmd       
-
-# Discharge mMeasurement
-SaltDischarge.qmd
-Flourimeter.qmd    
+This site provides an overview and accompaning manual for use of our field and laboratory equipment in the Hydrology Group at the [University of Bern](http://www.geography.unibe.ch/forschung/hydrologie). 
 
 
-# Isotopes of Water
-IsotopeSamplingWater.qmd
-IsotopeSamplingSnow.qmd
-IsotopeSamplingSoil.qmd
-IsotopeSamplingVegetation.qmd          
-IsotopeAnalysis.qmd             
-IsotopePostprocessing.qmd       
+Please report any questions/bugs to [issues].(https://github.com/hydro-unibern/field-instructions/issues)
 
-# Water Quality beyond Isotopes
-TotalIons.qmd
-ExoProbe.qmd    
-ElectricalConductivity.qmd
+## Contents
 
-# Sensors
-eLAB 
+### Administration and Planning
+[Lab Acess](https://github.com/hydro-unibern/field-instructions/LabAcess.html)                    
+[Equipment Inventory](https://github.com/hydro-unibern/field-instructions/EquipmentInventory.html)
+[Battery Management](https://github.com/hydro-unibern/field-instructions/BatteryManagement.html)
+[Transportation](https://github.com/hydro-unibern/field-instructions/Transportation.html)
+[Field Safety](https://github.com/hydro-unibern/field-instructions/FieldSafety.html)   
+
+### Discharge mMeasurement
+[Salt Discharge](https://github.com/hydro-unibern/field-instructions/SaltDischarge.html)
+[Flourimeter](https://github.com/hydro-unibern/field-instructions/Flourimeter.html)    
+
+
+### Isotopes of Water
+[Water Sampling for Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopeSamplingWater.html)
+[Snow Sampling for Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopeSamplingSnow.html)
+[Soil Sampling for Extraction for Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopeSamplingSoil.html)
+[Vegetation Sampling for Extraction Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopeSamplingVegetation.html)          
+[Laboratory Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopeAnalysis.html)             
+[Post Processing of Isotopic Analysis](https://github.com/hydro-unibern/field-instructions/IsotopePostprocessing.html)       
+
+### Water Quality beyond Isotopes
+[Laboratory Analysis of Total Ions](https://github.com/hydro-unibern/field-instructions/TotalIons.html)
+[Water Quality with Exo Probe](https://github.com/hydro-unibern/field-instructions/ExoProbe.html)    
+[Electrical Conductivity in Field Laboratory](https://github.com/hydro-unibern/field-instructions/ElectricalConductivity.html)
+
+### Sensors
+[Orientation to eLAB](https://github.com/hydro-unibern/field-instructions/eLAB) 
 
 
 ## License
@@ -61,7 +56,8 @@ eLAB
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ### How to cite this material {-}
-To come
-----
 
-![](./images/logo_unibern_squid3.png){width="30%"}
+To come
+
+----
+![](https://geco-bern.github.io/les/images/logo_unibern_squid3.png){width="30%"}
