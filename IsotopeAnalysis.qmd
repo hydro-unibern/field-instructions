@@ -12,6 +12,8 @@ execute:
   warning: false
 ---
 
+![Picarro L2140-i with Autosampler A0340 and Vaporizer A0211](images/Autosampler%20Image%20A0340_0.png)
+
 
 ## Goal 
 
@@ -19,10 +21,89 @@ execute:
 
 ## Preparation
 
-## Field Steps
+## Lab Steps
+![All important programs on the Picaro desktop are circled in red.](images/desktop_zeichnung.png)
+To put the Picarro into operation, follow the steps below:
+1. Switch on the power at the black power strip behind the desktop.
+2. Check the computer for updates the first time you switch it on. If you have time, update it. Otherwise, postpone the date for the next update. If the computer restarts due to an update, Picarro will be interrupted.
+
+You can access the menu by searching for *updates* in the search bar at the bottom left of the desktop start screen. Under *Windows Updates*, you can start updates manually or delay the update pause to the maximum.
+
+3. Open the gas by turning the yellow screw cap all the way open. The pressure display should be $2-3pm$. This point is marked on the display with a sharpie marker. The pressure is changed with the gray screw cap. This should not actually have to be used. However, if the right-hand pressure display does not show a value between $2-3pm$, you can try turning it. Otherwise, the laboratory team should be asked for the correct gas setting.
+4. pen the *CRSD Data Viewer* application on the computer. Now you have to wait until the cavity pressure is below 50ppm, ideally between 10-20ppm, before the Picarro can be used. This can take up to half a day!
+
+![This shows the moisture content in the cavity and the successful integration of the injection pulse.](images/CRSD_Dataviever_zeichnung.png)
+
+5.  The sample pallet can be prepared during the waiting time. The first sample is a DI (Milli-Q water from the laboratory). The second to fourth samples are standards: Venice (heavy), Bern MQ (medium), Klein Matterhorn (light). This is followed by another DI sample. Now seven samples are always used, followed by a DI sample, until place 101. Place 101 is again a DI sample, followed by the three standards and finally a last DI sample (see figure ). This results in a number of 2x3 standards, 15 DI's and 84 samples.
+
+* When pipetting, make sure that you always hold the pipette vertically so that no liquid can flow into the pipette head.
+* You can change the pipette tip after each sample, but you don't have to. However, the pipette tip must be completely dry before you pipette a new sample, otherwise you will contaminate the new sample with the old one.
+* The small sample vials can be written on with a waterproof pen so that no information is lost.
+
+6.  In folder *Sample description* attached to the desktop you can open the first file and save it as a new file in the format *YYYYMMDD\_NameIndex.csv* in the same folder. Now you can adjust the information. The second column always contains a *1*. The second column contains the position on the sample rack (numbered from 1 to 105). The third column contains the name, e.g. the name of your sample, the name of the standard (Venice, Matterhorn, Bern), or DI. The last column shows the type of sample: sample, control (for DI's) or standard. The columns are separated by a comma. If you have fewer than 105 samples, the document ends there: The document has as many rows as the number of spaces occupied on the sample rack.
+7. Open the program *Autosampler Control*. Enter the start position (usually 1) and the end position (usually 105). Enter the number of injections per sample. I have made 8 injections per sample.
+![Picarro Coordinator Launcher](images/Coordinator_LAuncher_zeichnung.png)
+
+8. Open the *Coordinator Launcher* program and set the button *Select Coordinator* to *O17 high precision*.
+9.  Go back to the *Autosampler Control* program and press run.
+10. Go back to the *Coordinator Launcher* program and select *Launche*.
+
+11. The program *CRSD Coordinator* will automatically open a window. Click the button *Load Sample Description*. Select your sample description created in step 6, which you saved in the *Sample Descriptions* folder. Picaro will now start analysing.
+12. . Observe the first injection in the program *CRDS Data Viewer*: the signal should first be noisy and then show a stable signal when processing the first injection before it becomes noisy again.   
+
+# Change Septa 
+
+The septum separates the vaporizer from the rest. The needle containing the sample passes through it and empties it into the vaporizer. The septum must be changed every 200 to 300 injections. If the septum is not changed, it will be difficult to maintain the vacuum inside the vaporizer, which will degrade the quality of the data.
+
+1. Click on the button *change septum* in the program *Coordinator Launcher*. If no process is currently running (e.g. you have just started the computer and the Picaro), you can change the septum directly without making any settings.
+2. Wait until the button shows *changed septum* instead of *wait*. 
+3. Lift off the metal plate on the vaporizer.  
+4. Unscrew the cap. 
+5. Either the septum (blue, round, flat rubber) is now on the opening, or it is inside the cap. Take it out with the tweezers. 
+6. Place a new septum on the opening. 
+7. Screw the cap back on and put the metal plate back on at the end
+8. Click the button *changed septum* in the *Coordinator Launcher* program.
+
+
+
+# Change Syringe
+
+The syringe must be cleaned every xy injections. If the syringe is bent or broken, it must be replaced.
+To clean the syringe:
+
+1. Click the button *Change Syringe* in the program *Autosampler Control*.
+2. Wait until the *Change Syringe* button is displayed. If no process is currently running (e.g. you have just started the computer and the Picaro), you can change the syringe directly without making any settings.
+3. Carefully remove the syringe.
+4.To clean the needle you need NMP solution. It is located in room XYYYY. The needle must be cleaned in a hood. It is located in room XXX. Turn on the hood and set the ventilation to at least the first level. Raise the sliding door so that you can work in the hood but look in through the window. 
+
+Insert the needle into the NMP solution. Pull the syringe fully open until it can be drawn up without resistance. If you feel a lot of resistance, take the syringe head out completely, put some deionized water on a paper towel and rub the needle clean. 
+
+5. Carefully reinsert the syringe.
+6. Click the *Syringe Changed* button in the *Autosampler Control* program. 
 
 ## Follow-up 
+* Shut down the Intrument. 
+1. download the data
+2. shut down in software
+3. turn off power strip
+4. close gas canister
+
+* empty, clean and dry  all vials 
+* throw away all septa
+
+Now you are ready for [Post Processing](IsotopePostprocessing.qmd)! 
+
 
 ## Tips 
+* Everything that is stored (samples, storage boxes, standards, and more) must be labelled with the labelling machine!
+* All work steps must be noted in the documentation!
+* Long clothing and a laboratory coat (labelled) are required in the laboratory
+
+# Remote Access
+To remotely access the computer which controls the Picarro, the application (app for the smartphone/program for the computer) *Anydesk* must be downloaded. You can then enter the IP-address of the computer in the search bar at the top of the window (see figure \ref{anydesk_leiste*). This can be seen in the Anydesk program on the computer that controls the Picarro. Check the *Automatically log in* in the future box to avoid having to authorize remote access each time on the computer controlling the Picarro (see figure \ref{anydesk_anmeldung*). 
+
+![Here you can enter the IP-address of the Picarro-computer to connect with it.](images/anydesk_leiste.png)
+![If you check this box, you avoid having to confirm the remote access on the Picarro-computer every time.](images/anydesk_anmeldung.png)
 
 ## References
+This is based on a latex document "Picarro step-by-step instructions for students" originally prepared by Anna Meier and Martine Helfer in November 2023. 

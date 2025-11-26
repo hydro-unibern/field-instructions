@@ -1,6 +1,6 @@
 ---
 title: "Field Instructions Welcome"
-author: "Natlie Ceperley"
+author: "Natalie Ceperley"
 date: "November 25, 2025"
 toc: true
 toc-depth: 3
@@ -29,7 +29,7 @@ Please report any questions/bugs to [issues].(https://github.com/hydro-unibern/f
 [Transportation](https://github.com/hydro-unibern/field-instructions/Transportation.html)
 [Field Safety](https://github.com/hydro-unibern/field-instructions/FieldSafety.html)   
 
-### Discharge mMeasurement
+### Discharge Measurement
 [Salt Discharge](https://github.com/hydro-unibern/field-instructions/SaltDischarge.html)
 [Flourimeter](https://github.com/hydro-unibern/field-instructions/Flourimeter.html)    
 

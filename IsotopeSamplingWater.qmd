@@ -15,7 +15,54 @@ execute:
 
 ## Goal 
 
+Label
+Best practice is to label with an abbreviated sample IDs (12 characters or less). 
+Sample ID should include a prefix or line for the person or project that would be identifiable by anyone in the lab and a serial number that is unique to that sample. 
+In an accompanying field notebook, all meta data should be recorded according to the sample ID. 
+The sample ID should not be place or time specific so that its use is flexible.  
+The best practice is to print labels and tape them on with a heavy duty, clear packaging tape (like tesa pack). 
+
+Metadata
+In the field record the metadata in a field notebook.  Quickly after arrival (same day, preferably) type all metadata into an organized spread sheet.   
+Specifically: Location (coordinates, name of place, type of place i.e., stream, soil, spring, well), depth of water (if well), accompanying physicochemical measurements, i.e. conductivity, temperature, pH, dissolved oxygen, alkalinity, person sampling, sampling date and time, any notes i.e. unusual color of the water, presence of organisms, algae or sediment, if filtered, etc. 
+
+Volume
+Minimum 2 ml needed for 18O, 17O, and 2H measurement – more is better in case of problems. 
+More than 50 ml is cumbersome for transport. 
+Verify volume requirements of any other analyses being performed. 
+
+ 
+Container
+Double-capped, glass or polyethylene bottle
+Standard high-density polyethylene (HDE) or Nalgene bottles with tight-fitting caps. More critical is the cap liner. Polyethylene cone liners or rubber liners are best. Avoid cap liners made with any part of pulp (cardboard) as they will swell and compromise cap tightness.
+Fill vial to capacity and cap tightly. Avoiding evaporation of samples via poor sealing cap is the primary concern.
+Dark glass vials are also practical for preventing biological activity from light activation. 
+
+
+Transport and Storage 
+Fill directly from the source or from a secondary container.
+During sampling, storage, and transportation to the laboratory, take care to avoid evaporation of the sample.
+Wrapping a small strip of parafilm or tape around the cap skirt and bottleneck helps stop the caps from loosening during transport and/or storage.
+Refrigerate samples for transport and upon arrival if possible (a cooler with ice packs is fine).
+
+
+Comments
+No sample filtration or preservation is required.
+Minimally coarse filter sample in the field, in the case of sediment and organic material (i.e. algae).
+Flush the sample bottle a minimum of 3 times with the sample.
+In the case of a well, after recording the water level, purge the well with a pump. In general, three well volumes should be pumped out before samples are collected.
+
 ## Equiment
+\begin{enumerate}
+    \item calibration - cylinder to measure water amount (in blue Sommer suitcase), stirring spoon, pipette, tips, 
+    \item calibration - thermos 1 to store solution
+    \item calibration - thermos 2 to do test (alternative is to make a water bath - bring extra pitcher
+    \item sample vials (labeled) - glass or plastic for isotopes, plastic for total ions 
+    \item notebook for metadata + pencil
+    \item ziplock bags for snow samples
+    \item insulated bag or box for snow samples
+    
+\end{enumerate}
 
 ## Preparation
 

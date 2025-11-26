@@ -15,12 +15,128 @@ execute:
 ## Goal 
 
 ## Equiment
+    \item calibration - cylinder to measure water amount (in blue Sommer suitcase), stirring spoon, pipette, tips, 
+    \item calibration - thermos 1 to store solution
+    \item calibration - thermos 2 to do test (alternative is to make a water bath - bring extra pitcher
+    \item notebook for metadata + pencil
+    \item bottles (1l) for subsequent callibration 
+    \item salt to dump (i.e., 5kg), salt to calibrate (i.e., 5g)
+    \item big bucket
+    \item drill + battery + paint stirrer + attachment (alternative - stick or pitcher)
+    \item waders + booties (for geometric measure)
+    \item tape measure (for geometric measure)
+    \item flow meter (for geometric measure)
+    \item meter stick for depth (for geometric measurement)
+    \item to download data from gauge - magnet and bluetooth device (Hobo Onset), cable + computer (other models)
+    \item zip ties (eventually rope and sticks) 
+    \item walkie talkies 
+    \item camera
+    \item computer with software + cable 
+  
 
 ## Preparation
-
+    \item WTW - calibrate the probe in standard solution before leaving
+    \item check batteries / charge - of computer, drill, camera, probes (WTW, Sommer)
+    \item check software on computer
+    \item prep salt - weigh salt that you will dump for each measure. 
+    \item prep salt - weigh salt on precision scale (5g) for callibration 
 ## Field Steps
 
+For Discharge Measurements with WTW
+* Remember to take extra batteries if you have a long field day planned
+* Also remember to take a computer to download data if you will do more 10 discharge measurements or else plan to save at a resolution less than 1 second. 
+
+A.  Do a calibration curve between salinity and conductivity
+* In principle this should be done whenever temperature and conductivity are significantly different
+
+Need: scale, 5g of salt (ideally brought from lab), tool to measure water - cylinder or scale), thermos or insulted container
+
+1. Rinse everything
+2. Make a 5g salt / 10 L river water solution
+3. Put 200 mL plain river water in thermos, record “zero” Temp and Conductivity
+4. Add 200 mL (or other fixed quantity) of solution to  thermos incrementally, stirring and recording between each addition. Until thermos is full. 
+5. Calculate the salinity [g / L] for each data point
+6. Plot conductivity (y [uS/cm]) vs. salinity (x [g/L] )
+Use the coefficients from the linear fit y = m*x + b in the discharge calculations. 
+Throw out any measurements with dramatically different Temperatures. 
+
+B. Take Discharge Measurements
+1. Mix fixed quantity of salt in water.  7 kg is the limit for the 12 L buckets. 
+You need about 5 kg per m3/s (5 g per 1 L/s)
+2. Start recording about 50 m downstream (note approximate distance)
+Try to find reach with minimum amount of braiding / channels leaving or entering
+Find a well mixed point to dump and to measure
+3. Record at 1 second interval for max 30 min, change the id number each discharge measurement 
+4. Dump
+5. Write down base flow and Temp and watch for peak, stop when returns to base level
+6. Note location, Gps point, isotope vial, take picture, etc.
+
+
+C. Using WTW (directly from manual, read manual if this is not clear)
+Note: each button can be pushed quickly or long.  The long push is indicated by an underbar “_” after the button name. 
+
+
+1. Calibration
+Use the solution that came with the instrument.  Pour it into the small beaker. 
+Put the probe in the beaker with the help of the stand. 
+Navigate to conductivity with M
+Start Calibration with CAL
+Immerse the sensor in solution
+Start measurement with ENTER
+Wait until stable (not flashing)
+Take value with ENTER
+Switch back to measurement mode with ENTER
+
+Also at this time, check that the date-time is correct. 
+To set: press ENTER_
+Select system/clock, ENTER
+Adjust. 
+
+
+Calibration needs to take place every time the sensor is disconnected, if the batteries are changed, if it is exposed to extreme conditions, etc. 
+
+2. Data Storage
+Manually store 1 data point (i.e. calibration) by pushing STO quickly and then ENTER (after changing ID) during a measurement
+
+Automatically Store data  (during discharge)
+STO_
+Change settings
+Confirm with ENTER to start
+To stop during a measurement
+Press STO_ 
+And confirm to stop 
+
+Remember to delete all data after transfer (using the same menus - ERASE ALL DATA in both manual and automatic)
+
+
+
+3. Data Transfer
+On a windows machine with excel installed, use the software from WTW to import into excel
+On all other computers, install a terminal program and use that to transfer data (Minicom, Hterm 0.8.1 beta, CoolTermMac, Zterm)
+You made need to install the driver “Silicon Labs VCP Driver Install Disk)
+Alternatively, Matlab, can communicate directly with serial ports
+Transfer Config is on page 87 of manual: baudrate (can be changed but needs to match on instrument and PC) : 19200, Handshake: RTS/CTS, Parity: none, Databits: 8, Stopbits: 2
+
+
+When connected, direct measurements can be transmitted to PC using F2 in measurement window
+
+
+
+
+
+D. Discharge Calculation
+I prepared one Matlab script and one function to calculate discharge without put. 
+WTW_Q.m is the function. 
+WTW_runs.m is the script that I used to calculate discharge from the 9th of august.  It can be modified and executed for additional discharge measurements. 
+You will need to input the calibration curve slope and intercept, kg salt, time of start, and the id number saved in WTW. Note I have two numbers per run just to coordinate my records.
+If you did not modify the id number, then you will have to modify the scripts accordingly. 
+The script will also save a figure for each calculation that can be used for quality control. 
+
+## Differences with Sommer or other
+
+
 ## Follow-up 
+Regular maintnance
 
 ## Tips 
 

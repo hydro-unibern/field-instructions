@@ -1,5 +1,5 @@
 ---
-title: "Field Safety"
+title: "Guidelines Before, During, and After Field Data Collection"
 author: "Natalie Ceperley"
 date: "November 25th, 2025"
 toc: true
@@ -14,6 +14,37 @@ execute:
 
 
 ## Goal 
+
+
+Saftey
+Diversity and Inclusion
+Devices
+Preparation
+
+Metadata
+Photos
+Recording
+Sampling 
+Label Recommendation
+
+Ideas to start
+
+- where to order impervious note books
+
+- take pictures
+
+- label your equipment in case someone finds it
+
+- always bring vials if a friend has a Picarro ;-)
+
+
+Databases
+Metadata
+Best Practices
+
+Grading Rubric for Master and Bachelor projects with Data Production
+
+
 
 ## Equiment
 
