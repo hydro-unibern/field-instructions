@@ -21,8 +21,205 @@ execute:
 
 ## Field Steps
 
+Make sure that your hands are dry during sampling and that you do this as quickly as possible to avoid
+evaporation from the stem and soil samples.
+
+Tree stem sapwood samples: Take two to three stem sapwood samples of ~5 cm with a 0.5 cm wood corer
+from 3 spruce (Picea abies) trees and/or 3 beech (Fagus sylvatica) trees at breast height (i.e. we expect three
+vials (one for each tree) with two to three 5cm cores inside each). A minimum of two cores (more the better) are
+needed to get enough water for isotope analysis and to avoid isotope fractionations related to cryogenic
+extraction. The trees should be site-representative trees with a diameter at breast height (DBH) of at least 10 cm.
+Remove the bark of the tree cores with a knife but make sure to include the tissue of the outer tree rings!
+Soil samples: Take a maximum of 5 soil samples at 0-10, 10-20, 20-30, 50-60, 80-90 cm at a location between
+the 3 (or 6) trees that you sampled. Litter should be removed for the soil sample at 0-10cm. Fill the exetainers
+for 50-80% with soil. In the case of a maximum soil depth of 30 cm, simply take 3 samples as indicated above.
+In the case of a maximum soil depth of 50 cm, take an additional 10 cm sample between 30 to 50 cm and note
+the exact depth (4 sample in total). In the case of maximum soil depth of 80 cm, take an additional 10 cm
+sample between 60 to 80 cm and note the exact depth (5 samples in total).
+Close the sample vial: Please make sure the exetainer caps are tightly screwed on the vials. Hand tight is just
+fine but check that the rubber sealing in the cap is not overly bend. Seal the cap additionally with parafilm (or if
+you don’t have parafilm use tape). Remember, evaporation is the enemy!
+Label the sample: Please make sure that your samples are clearly labelled. The label should include country (2-
+letter), site code (3-letter), sampling date (yymmdd), soil/tree species, and depth/number (e.g.
+CH_WSL_230525_Soil_20-30, or CH_WSL_230525_Beech_1). Double-check with metadata.
+Take photos: For all pictures, please use your mobile phone. Please use the back and not the front camera (the
+latter typically provides photos at lower resolution compared to the one on the back)! Take a (1) representative
+landscape photo of each site, (2) representative photos of each tree, as well as (3) representative photos of the
+canopy. The latter will be analysed by us for obtaining the crown gap fraction as a rough estimate of tree vitality
+on your site (description below). And of course, take pictures of yourself .
+Label and upload photos: Please make sure that your photos are clearly labelled for landscape (e.g.
+CH_WSL_230525_Beech_Landscape), trees (CH_WSL_230525 _Beech1), canopy
+(CH_WSL_230525_Beech_Lab or CH_WSL_230525_Beech_1m_N) and yourself
+(CH_WSL_230525_Beech_Fun1). Upload your photos on google drive: XXX
+After sampling:
+ Store all samples in a fridge (~4°C). Don’t freeze them!
+ Send your vials as soon as possible to the following address: XXX.
+Please pack them nicely in a box with some bubble wrap and double check that the labels are readable.
+Add a paper copy of the import licence (attached to email).
+ Send an email to X and Y to confirm that you have sent the samples. Double-check again the metadata
+and tick the box for “sent”.
+Instructions for taking canopy photos
+In the office/lab:
+We need to know the field of view of your mobile phone camera. Put your phone horizontally with the back
+camera upward at 1 meter distance from a ruler and take a photo. Use a smartphone app or a physical bubble
+level to achieve a prober level. Make sure that meter divisions are clearly visible in photo.
+Rule
+Phone
+1m
+In the field:
+Put your phone horizontally with the back camera upward underneath a representative tree of each site and
+species, approximately above 1 m from the soil surface. Use a smartphone app or a physical bubble level to
+achieve a prober level. Take photos at 1- and 5-meters distance to the stem. Repeat this procedure for 3 opposite
+directions (North, South, East or West). In total a minimum of 6 photos are needed (i.e., 2 photos per direction).
+To improve the estimate, additional photos at 3-, 7- or 9-meters distance to the stem or at the fourth direction are
+highly welcome.
+N
+Crown projection
+Stem
+W
+Phone
+1m
+1m
+3m
+5m
+7m
+9m
+S
+Recommendations: Avoid direct sun radiation on the crown and camera. The best conditions are met when the
+sky is homogeneously cloudy (as this provides a homogeneous background), or at least when the sunlight is
+shaded by clouds.
+S2: Protocol for the summer sampling campaign
+WATSON Sampling Instructions – Summer 2023 campaign
+Before you go out:
+ Make sure that you have permission to access the site and take samples. We prefer well established
+sites with existing data above new sites. We hope that everyone who participated in the first spring
+sampling campaign will participate again but also welcome people from selected countries who could
+not participate in the spring.
+ Select a sampling day with nice weather and sample in "dry conditions", i.e. in the absence of rain or
+fog so that trees transpire actively. Avoid sampling during dusk and dawn.
+ Check and update metadata: We have now updated our metadata sheet so that is suits the next
+sampling campaign. So please fill out the remaining “gaps” if possible using the following google doc:
+XXX
+ Make sure that you have the necessary equipment (0.5 cm wood corer, exetainers, labelling tape and
+marker, soil auger or shovel, as well as a measurement tape to measure the depth of the soil sample and
+if you are participating for the first time the DBH of the trees), GPS (or map), tools for estimating tree
+height, as well as spirit or bubble level and mobile phone. 12 ml exetainers are supplied by Labco:
+XXX
+ Packages with exetainers (and wood corer) are on the way those contributors, who had no exetainer
+during the first campaign! If you cannot organise all the equipment such as the 0.5 cm wood corer or
+exetainers from colleagues in your country or nearby, send asap a “NEED EQUIPMENT” email to X
+and Y.
+During sampling in the field:
+Make sure that your hands are dry during sampling and that you do this as quickly as possible to avoid
+evaporation from the stem and soil samples.
+Tree stem sapwood samples: Take two to three stem sapwood samples of ~5 cm with a 0.5 cm wood corer
+from 3 spruce (Picea abies) trees and/or 3 beech (Fagus sylvatica) trees at breast height (i.e. we expect three
+vials (one for each tree) with two to three 5 cm cores inside each). A minimum of two cores (more the better) are
+needed to get enough water for isotope analysis and to avoid isotope fractionations related to cryogenic
+extraction. The trees should be -representative trees for the site with a diameter at breast height (DBH) of at
+least 10 cm. Remove the outer/inner bark of the tree cores with a knife but make sure to include the tissue of
+the outer tree rings! Avoid sampling the heartwood! If you can, please keep the core intact because we plan to
+determine isotope in the 2023-ring.
+Soil samples: Take a maximum of 5 soil samples at 0-10, 10-20, 20-30, 50-60, 80-90 cm at a location between
+the 3 (or 6) trees that you sampled. Litter should be removed for the soil sample at 0-10cm. Fill the exetainers
+for 50-80% with soil. In the case of a maximum soil depth of 30 cm, simply take 3 samples as indicated above.
+In the case of a maximum soil depth of 50 cm, take an additional 10 cm sample between 30 to 50 cm and note
+the exact depth (4 samples in total). In the case of maximum soil depth of 80 cm, take an additional 10 cm
+sample between 60 to 80 cm and note the exact depth (5 samples in total).
+Close the sample vial: Please make sure the exetainer caps are tightly screwed on the vials. Hand tight is fine
+but check that the rubber sealing in the cap is not overly bend. Seal the cap additionally with parafilm (or if you
+don’t have parafilm use tape). Remember, evaporation is the enemy!
+Label the sample: Please make sure that your samples are clearly labelled. The label should include country (2-
+letter), site code (3-letter), sampling date (yymmdd), soil/tree species, and depth/number (e.g.
+CH_WSL_230525_Soil_20-30, or CH_WSL_230525_Beech_1). Sticky labels on top (first 3rd of the exetainer,
+underneath the cap) are preferred. Avoid handwriting with a text marker directly on the glass vial to avoid losing
+the “label” during sample handling. Double-check with metadata.
+Take photos (optional): Only perform this task if you are new to the WATSON sampling campaign or if there
+was a significant change in the vegetation on your site between spring and summer. However, new fun pictures
+or site pictures are always welcome as we can use them for various presentations! Double-check with metadata.
+For all pictures, please use your mobile phone. Please use the back and not the front camera (the latter typically
+provides photos at lower resolution compared to the one on the back)! Take a (1) representative landscape photo
+of each site, (2) representative photos of each tree, as well as (3) representative photos of the canopy. The latter
+will be analysed by us to obtain the crown gap fraction as a rough estimate of tree vitality on your site
+(description below). And of course, take pictures of yourself .
+Label and upload photos: Please make sure that your photos are clearly labelled for landscape (e.g.
+CH_WSL_230525_Beech_Landscape), trees (CH_WSL_230525 _Beech1), canopy
+(CH_WSL_230525_Beech_Lab or CH_WSL_230525_Beech_1m_N) and yourself
+(CH_WSL_230525_Beech_Fun1). Upload your photos on google drive: XXX.
+After sampling:
+ Store all samples in a fridge (~4°C). Don’t freeze them!
+ Please pack them nicely in a box with some bubble wrap and double check that the labels are readable.
+Add a paper copy of the import licence (attached to email).
+Send your vials as soon as possible to the following address: XXX
+ Double-check again the metadata and tick the box for “sent”.
+ Double-check whether all “gaps” in the metadata are filled and all pictures are uploaded.
+Instructions for taking canopy photos (Optional)
+In the office/lab:
+We need to know the field of view of your mobile phone camera. Put your phone horizontally with the back
+camera upward at 1 meter distance from a ruler and take a photo. Use a smartphone app or a physical bubble
+level to achieve a prober level. Make sure that meter divisions are clearly visible in the photo.
+Rule
+Phone
+1m
+In the field:
+Put your phone horizontally with the back camera upward underneath a representative tree of each site and
+species, at approximately 1 m above the soil surface. Use a smartphone app or a physical bubble level to achieve
+a proper level. Take photos at 1- and 5-meters distance to the stem. Repeat this procedure for 3 opposite
+directions (North, South, East or West). In total, a minimum of 6 photos are needed (i.e., 2 photos per
+direction). To improve the estimate, additional photos at 3-, 7- or 9-meters distance to the stem or at the fourth
+direction are highly welcome.
+N
+Crown projection
+Stem
+W
+Phone
+1m
+1m
+3m
+5m
+7m
+9m
+S
+Recommendations: Avoid direct sun radiation on the crown and camera. The best conditions are met when the
+sky is homogeneously cloudy (as this provides a homogeneous background), or at least when the sunlight is
+shaded by clouds.
+S3: Determination of the canopy gap fraction and canopy cover
+The average canopy cover, i.e., the proportion of the forest floor that is covered by the vertical projection of the
+tree crown, was determined for each sampling site from non-hemispherical photographs taken with a phone
+camera that was levelled with a spirit level. For each tree, photos were generally taken at different distances
+from the tree (1, 3, 5 m from the stem) in 2 to 4 opposite directions (North, East, South, West). Most of the
+pictures were taken during the spring campaign but for some sites, pictures were taken during the summer
+campaign or during both campaigns.
+To standardize the photos from different devices, the field of view (FoV) for each phone was measured by taking
+a photo of a ruler placed one meter away from the camera. FoV is given by:
+FoV=2 tan-1 (L) Eq. 1
+where L is the length of the ruler [m] in the picture.
+Using the FoV, a circular area with a radius of one meter was selected in the center of the image (to avoid
+overlap between the different pictures). The blue band (b) was extracted from each RGB image to differentiate
+between the pixels of the sky (high values of the blue band) and biomass (lower values of the blue band). The
+threshold to distinguish between pixels of the sky and biomass was set manually for each picture. The blue band
+images were converted to binary images with a value of 0 for biomass, and a values of 1 for the sky. Canopy
+cover (C) was then calculated via based on the difference in the number of biomass pixels with a value of 0 (P0)
+and the number of pixels with the sky with a value of 1 (P1) (Llorens and Gallart, 2000):
+C = P0/(P0+P1)
+
+
+
 ## Follow-up 
 
 ## Tips 
-
+Where relevant, please make sure that you’ve liaised with the appropriate colleagues of your team.
+We prefer well established sites with existing data above new sites.
+ Make sure that you have permission to access the site and take samples.
+ Collect and check metadata: Please add as much metadata as possible using the following google
+doc: XXX
+ Make sure that you have the necessary equipment (wood corer, exetainers, labelling tape and marker,
+soil auger or shovel, as well as a measurement tape to measure the DBH of the tree or depth of the soil
+sample), GPS (or map), tools for estimating tree height, as well as spirit or bubble level and mobile
+phone. 12 ml exetainers are supplied by Labco: XXX
+ If you cannot organise all the equipment such as a 0.5 cm wood corer or exetainers in your country or
+from colleagues nearby, send asap a “NEED EQUIPMENT” email to X and Y.
 ## References
+1. Lehmann, M. M., Geris, J., van Meerveld, I., Penna, D., Rothfuss, Y., Verdone, M., Ala-Aho, P., Arvai, M., Babre, A., Balandier, P., Bernhard, F., Butorac, L., Carrière, S. D., Ceperley, N. C., Chen, Z., Correa, A., Diao, H., Dubbert, D., Dubbert, M., Ercoli, F., Floriancic, M. G., Gimeno, T. E., Gounelle, D., Hagedorn, F., Hissler, C., Huneau, F., Iraheta, A., Jakovljević, T., Kazakis, N., Kern, Z., Knaebel, K., Kobler, J., Kocum, J., Koeber, C., Koren, G., Kübert, A., Kupka, D., Le Gall, S., Lehtonen, A., Leydier, T., Malagoli, P., Manca di Villahermosa, F. S., Marchina, C., Martínez-Carreras, N., Martin-StPaul, N., Marttila, H., Meyer Oliveira, A., Monvoisin, G., Orlowski, N., Palmik-Das, K., Persoiu, A., Popa, A., Prikaziuk, E., Quantin, C., Rinne-Garmston, K. T., Rohde, C., Sanda, M., Saurer, M., Schulz, D., Stockinger, M. P., Stumpp, C., Venisse, J.-S., Vlcek, L., Voudouris, S., Weeser, B., Wilkinson, M. E., Zuecco, G., and Meusburger, K., 2025. Soil and stem xylem water isotope data from two pan-European sampling campaigns, Earth System Science Data. ESSD, 17, 6129–6147, https://doi.org/10.5194/essd-2024-409.
+
+2. Ceperley, N., Gimeno, T.E., Jacobs, S.R., Beyer, M., Dubbert, M., Fischer, B., Geris, J., Holko, L., Kübert, A., Le Gall, S., Lehmann, M.M., Llorens, P., Millar, C., Penna, D., Prieto, I., Radolinski, J., Scandellari, F., Stockinger, M., Stumpp, C., Tetzlaff, D., Van Meerveld, I., Werner, C., Yildiz, O., Zuecco, G., Barbeta, A., Orlowski, N., Rothfuss, Y., 2024. Toward a common methodological framework for the sampling, extraction, and isotopic analysis of water in the Critical Zone to study vegetation water use. WIREs Water e1727. https://doi.org/10.1002/wat2.1727

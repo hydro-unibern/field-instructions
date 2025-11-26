@@ -1,75 +1,97 @@
----
-title: "Isotope Sampling Water"
-author: "Natalie Ceperley"
-date: "November 25th, 2025"
-toc: true
-format:
-  html:
-    html-math-method: katex
-    code-tools: true
-    self-contained: true
-execute:
-  warning: false
----
+--- 
+title: "Isotope Sampling Water" 
+author: "Natalie Ceperley" 
+date: "November 25th, 2025" 
+toc: true 
+format:   
+html:     
+html-math-method: katex     
+code-tools: true     
+self-contained: true 
+execute:   
+warning: false 
+---   
+## Goal   
 
+To sample water for the analysis of its stable isotopes 2H (deuterium), 17O, and 18O, i.e., a portion of water that sufficiently represents the water body being sampled with respect to one’s investigative objectives (cf. U.S. Geological Survey, 2006, 2018a). 
 
-## Goal 
+These recommendations are for collection of meteoric water in form of precipitation, snow and snowmelt, and ice. There might be specific recommen dew (Prada et al., 2015) and water in vegetation (Ceperley et al., 2023). Groundwater also has specific consideration, for example  the clean pumping of a well prior to collection of a groundwater sample that represents the aquifer pore fluid pior to sampling. 
 
-Label
-Best practice is to label with an abbreviated sample IDs (12 characters or less). 
-Sample ID should include a prefix or line for the person or project that would be identifiable by anyone in the lab and a serial number that is unique to that sample. 
-In an accompanying field notebook, all meta data should be recorded according to the sample ID. 
-The sample ID should not be place or time specific so that its use is flexible.  
-The best practice is to print labels and tape them on with a heavy duty, clear packaging tape (like tesa pack). 
+Sampling for stable isotopes of water is not complicated, and laser-based analysis of stable isotopes is both fast and relatively cheap.   
 
-Metadata
-In the field record the metadata in a field notebook.  Quickly after arrival (same day, preferably) type all metadata into an organized spread sheet.   
-Specifically: Location (coordinates, name of place, type of place i.e., stream, soil, spring, well), depth of water (if well), accompanying physicochemical measurements, i.e. conductivity, temperature, pH, dissolved oxygen, alkalinity, person sampling, sampling date and time, any notes i.e. unusual color of the water, presence of organisms, algae or sediment, if filtered, etc. 
-
-Volume
-Minimum 2 ml needed for 18O, 17O, and 2H measurement – more is better in case of problems. 
-More than 50 ml is cumbersome for transport. 
-Verify volume requirements of any other analyses being performed. 
-
- 
-Container
-Double-capped, glass or polyethylene bottle
-Standard high-density polyethylene (HDE) or Nalgene bottles with tight-fitting caps. More critical is the cap liner. Polyethylene cone liners or rubber liners are best. Avoid cap liners made with any part of pulp (cardboard) as they will swell and compromise cap tightness.
-Fill vial to capacity and cap tightly. Avoiding evaporation of samples via poor sealing cap is the primary concern.
-Dark glass vials are also practical for preventing biological activity from light activation. 
-
-
-Transport and Storage 
-Fill directly from the source or from a secondary container.
-During sampling, storage, and transportation to the laboratory, take care to avoid evaporation of the sample.
-Wrapping a small strip of parafilm or tape around the cap skirt and bottleneck helps stop the caps from loosening during transport and/or storage.
-Refrigerate samples for transport and upon arrival if possible (a cooler with ice packs is fine).
-
-
-Comments
-No sample filtration or preservation is required.
-Minimally coarse filter sample in the field, in the case of sediment and organic material (i.e. algae).
-Flush the sample bottle a minimum of 3 times with the sample.
-In the case of a well, after recording the water level, purge the well with a pump. In general, three well volumes should be pumped out before samples are collected.
 
 ## Equiment
-\begin{enumerate}
-    \item calibration - cylinder to measure water amount (in blue Sommer suitcase), stirring spoon, pipette, tips, 
-    \item calibration - thermos 1 to store solution
-    \item calibration - thermos 2 to do test (alternative is to make a water bath - bring extra pitcher
-    \item sample vials (labeled) - glass or plastic for isotopes, plastic for total ions 
-    \item notebook for metadata + pencil
-    \item ziplock bags for snow samples
-    \item insulated bag or box for snow samples
-    
-\end{enumerate}
+1. sample vials (labeled) - glass or plastic for isotopes, plastic for total ions      
+2. notebook for metadata + pencil     
+3. ziplock bags for snow samples     
+4. insulated bag or box for snow samples      
+5. Filters and syringes (0.45 µm or finer), can also be done in lab if necessary (i.e. lots of find sediment or biological activity)
 
-## Preparation
+## Preparation  
+1. Design the appropriate sampling methodology (i.e., single, duplicate, triplicate? where? when? )
+2. Label vials (i.e. 15-17 mL in a dry 20 mL HDPE vial with airtight cover)
 
-## Field Steps
+## Field Steps   
 
-## Follow-up 
+# Liquid surface or ground water 
+Fill dry vial up with water from source.  Ideally, rinse the vial before final sampling and sample from a well mixed location.  If possible, avoid sediment and biological organisms (i.e. algae). Filter if necessary. Filtration should be quick to minimize the risk of significant water evaporation. Verify label. Take any accompanying meta data (location, picture, tempreature, electrical conductivity, people present, visual observations, other notes).
 
-## Tips 
+# Collection of precipitation 
 
-## References
+When collecting precipitation, preventing evaporation can be a challenge because precipitation is usually collected over a period of time of hours, days, weeks or one or a few months. The goal is usually to determine the average isotopic value of the accumulated precipitation without alteration by evaporation following the events of precipitation. Because precipitation collection is done accumulatively, it is necessary to note the start and end dates for each precipitation collection period. Precipitation includes rain, snow and, in more specialized cases, also dew (e.g. Prada et al., 2015). This guide first addresses the collection of precipitation in the form of rain, then it addresses the collection of snow and snowmelt. 
+
+# Collecting rain water 
+Rain water collectors typically comprise a funnel connected with a thin hose to a collector flask. A small hole in the collector flask’s lid allows air to escape as rain collects in the flask and the headspace volume decreases. Evaporation from the collector flask upwards through the funnel is prevented by letting the thin hose reach the bottom of the flask. In this way, the hose’s lower end becomes submerged after the first rain. Evaporation from the water surface within the hose and up through the funnel is usually ignored, due to the small water surface area within the hose and due to the sluggish diffusion along the length of the hose. Also evaporation from the much larger water surface, surrounding the thin hose, upwards through the air escape hole need to be prevented. The traditional way to prevent this important evaporation component is by the use of mineral oil in the collector flask. The oil creates a seal at the surface of the collected water, thereby preventing evaporation to the headspace of the collector flask and through the air escape hole. This methodology is effective and widely used, but it has to be considered that oil residues can cause problems in the analysis with common laser-based instruments. The use of mineral oil can be omitted by connecting the ‘air escape hole’ to a several meters long thin tube. The length of the tube ensures an adequately small humidity gradient along the tube so that evaporation from and fractionation effects on the collected water within the collector flask remains insignificant. This methodology was presented with the Palmex Rain Sampler RS1 (Gröning et al., 2012). The long tube is curled around the collector flask compartment resulting in an overall compact design of the rain collector. For any collector type, the product of the funnel area and the maximum amount of precipitation expected over a collection period should never exceed the collector flask volume. As a general recommentation when sampling a rain collector, start out by recording the amount of water collected in the collector flask during the accumulation period. Then sample the collected water (as above) and, finally, empty and dry (or replace) the collector flask. Each time the collector flask is sampled, check that the collector flask has not become completely filled up during the accumulation period. Also make sure that the hose connecting the funnel to the collector flask has not become blocked: with the collector flask off, check that water can pass through the hose with ease. Then clean the hose by penetrating it with a steel wire, a straw, or a long-and-thin brush, to prevent buildup of smudge in the hose, before you remount the collector flask. If you find the collector flask completely filled up, or if the hose leading to it was not free enough from smudge, then no proper collection has been guaranteed for the whole sampling periodat least for a while during the collection period, or water has only slowly seeped through the hose, allowing evaporation from the water in the funnel after the precipitation event. Always clean the hose when sampling. 
+
+## Collecting snow and snowmelt 
+Snowpacks integrate precipitation from one or more precipitation events while concomitantly superimposing effects of sublimation, vapor diffusion, and thaw and freeze events. All those effects cause fractionation and mixing between the precipitation events and loss of melt water and its respective isotope concentration to the (sub)surface. Despite this complexity, ocassional snowfalls that quickly melt at the study site are often collected simply as snowmelt using rain collectors. This is appropriate when the aim of the study is to characterize the (net) isotopic composition of input liquid water to groundwater and stream flow. If this sampling procedure is desired, it must be ensured that the total volume of snow between melting moments does not exceed the storage capacity of the funnel. In the case of the Palmex RS1 described above, the designers therefore recommend to increase the funnel storage by adding an additional 30 cm long tube on top of the funnel if snow is expected.Quantitative snow collection in the funnel remains strongly affected by losses attributable to wind (catch effects). Furthermore, the temperature regime controlling sublimation, vapor diffusion and freezing and thawing, and hence the isotopic composition of the melt, may be very different in a funnel compared to the natural analouge on the ground. Dedicated methods to obtain samples of snowmelt are described later.  
+# Snowpack collection 
+Collection of samples from a snowpack or snow layers requires (i) high-quality bags that can be hermetically sealed in the field and that won't be easily punctured (commercial grade food bags work well), (ii) a controlled temperature environment (e.g., a cooler box in the field and/or a refrigerator at the home institution) to ensure a slow thaw processes at low temperature rather than a rapid phase change and corresponding evaporative fractionation, and (iii) vials for water sampling and storage (the same as described in Section 0). In the field, the snow sample can be collected vertically by a snow tube or by smaller cylinders that are inserted into discrete depths or layers of the snowpack. When the snow is placed in the sampling bags, the bags should be compressed to reduce the volume of contained air as much as possible. Once the snow has thawn completely, the bags with thawn snow should be well mixed in case of condensation on the walls of the bags. Then subsamples of the water in the bag may be filtered and collected into sample vials (Section 0). When sampling snowpacks, one must consider which variables and values are important to the study. Which snow, in the layers of the snowpack, is of interest? New snow, old snow, or a composite value for the entire snow pack? And with which detail should snow textures, snowpack depths, layers thicknesses, temperatures, and snow density be recorded? In the case of deep snow packs, attention must be paid to pack stability to prevent collapse of the pit or local avalanche triggering. Snow sampling near a meteorological station adapted to record snow fall amount is advantageous. 
+
+# Snowmelt water collection 
+For many hydrological applications, the isotopic composition of the snowpack is not actually of interest. It is the snowmelt water that enters the hydrological system from the melting snowpack. Except for the occasional snowfalls that melt quickly and are often sampled with a rain collector (Section 0), the dedicated sampling of the snowmelt water is not straight forward. A collector for snowmelt ideally must not change the temperature regime that controls when and how much snowmelt is generated from the snowpack. Snow lysimeters of different constructions have been proposed to collect the snowmelt water. A snow lysimeter is essentially a device that collects the meltwater from an area and directs it to a storage container (e.g., a flask) collecting the meltwater to be sampled. The lysimeter can for example be a plastic sheet, plastic or metallic drip pan, modified gutter, or rain gauge (e.g. Kattelman, 2000; Rücker et al., 2019). Most snow lysimeters are designed to be sampled several times during the melting season. A passive capillary sampler (Penna et al., 2014) has been developed that is especially suitable to collect just one or a few large samples that represent the entire winter, i.e. a cold season integrated sample. In many locations, snowmelt occurs at a very high rate during a short period of the year. Therefore, careful attention must be paid to ensure that the lysimeter can correctly operate/function throughout a whole season below snow cover and can handle the volume of melt that is expected during the spring melt period. Additionally, snowmelt may be accompanied by a significant debris flow, which presents another challenge to field instrumentation. 
+# Automated sampling of liquid water 
+The use of automated sample collectors, e.g. ISCO-samplers for sampling streamwater or precipitation, has some peculiarities that need to be addressed. Autosamplers inherently store samples for a period of time before the samplers are visited by field personnel. During the in-sampler storage period, the samples may suffer evaporative fractionation or isotopic exchange via vapor mixing that will work to even out differences in isotopic composition between the collected samples. These alterations can be prevented using mineral oil or by modifying the autosampler’s collection flasks appropriately, e.g., see von Freyberg et al. (2020). The ideal is to make each collector flask in the autosampler act—as close as possible—as if it was a ‘small rain collector’. 
+
+# Collecting ice 
+For ice sampling, an ice screw as those used for climbing can be used to obtain a cylindrical ice core that can either be place directly into a water sampling vial or into a snow sampling bag and then treated like snow (see above). Ice samples may contain large amounts of debris and therefore samples may require filtration after thawing. In some cases an ice corer may be necessary, in order to access deeper ice (cf. Eicken et al., 2014).    
+## Follow-up   
+
+
+Generally, fractionation due to evaporation is the most critical risk to a water sample intended for analysis for stable isotopes of water. In this context, it is important to note that the natural in-situ evaporation from surface water bodies (lake, river, pond, precipitation, etc.) should not be prevented. But evaporation that occurs after sampling has to be prevented. Post-collection evaporation would distort the isotope value from its true value at the time of sampling. Evaporation during sampling, i.e. the basic act of putting water into a sampling bottle, is rarely of concern though. Therefore, evaporation during transportation and storage of the sample must always be prevented. To prevent post-collection evaporation several steps can be taken: 
+1.  Sample vials or flasks could be made of glass or metal, although HDPE plastic is usually adequate; non-HDPE plastic materials should be avoided. 
+2. Caps need to be airtight or hermetically sealed, and without septum that allows gas diffusion to become significant over the duration of sample storage. Silicone septa in particular should be avoided. 
+3. Temperatures during sample storage should not oscillate dramatically, for instance in a car or many storage facilities between night and day. 
+4. Finally, evaporation of samples can be further hindered by cooling: refrigerating to 5°C, or freezing. When freezing, it is important to keep a 15vol% headspace in the sample vial/flask to allow for expansion during freezing. If expansion causes a loss of water from the sample container, the remaining sample will likely have become useless. Due to ice-water fractionation, the lost water will have been concentrated in light isotopes while the remaining sample will have experienced a major isotopic enrichment. 
+5. Although only a few milliliters of water is typically needed for the analysis, it is recommended to collect much larger samples, e.g. 15 mL or larger. 
+
+A general recommendation for sample storage would be to keep the samples cold during field days of a sampling campaign in case of warm field conditions, e.g. by placing the samples on/with ice in the cooler box, but it is not absolutely necessary. As early as possible though, and when you return to your home institution, refrigerate the samples, or freeze them, if you intend to store them for several months or longer. When samples are shipped, they can be allowed to thaw during transport. The samples can be refrozen when they arrive to their destination. 
+
+
+## Tips   
+
+
+
+Label 
+Best practice is to label with an abbreviated sample IDs (12 characters or less).  
+Sample ID should include a prefix or line for the person or project that would be identifiable by anyone in the lab and a serial number that is unique to that sample.  In an accompanying field notebook, all meta data should be recorded according to the sample ID.  The sample ID should not be place or time specific so that its use is flexible.   
+The best practice is to print labels and tape them on with a heavy duty, clear packaging tape (like tesa pack).   
+
+Metadata
+In the field record the metadata in a field notebook.  
+Quickly after arrival (same day, preferably) type all metadata into an organized spread sheet.    
+Specifically: Location (coordinates, name of place, type of place i.e., stream, soil, spring, well), depth of water (if well), accompanying physicochemical measurements, i.e. conductivity, temperature, pH, dissolved oxygen, alkalinity, person sampling, sampling date and time, any notes i.e. unusual color of the water, presence of organisms, algae or sediment, if filtered, etc.   Volume Minimum 2 ml needed for 18O, 17O, and 2H measurement – more is better in case of problems.  More than 50 ml is cumbersome for transport.  Verify volume requirements of any other analyses being performed.     Container Double-capped, glass or polyethylene bottle Standard high-density polyethylene (HDE) or Nalgene bottles with tight-fitting caps. More critical is the cap liner. Polyethylene cone liners or rubber liners are best. Avoid cap liners made with any part of pulp (cardboard) as they will swell and compromise cap tightness. Fill vial to capacity and cap tightly. Avoiding evaporation of samples via poor sealing cap is the primary concern. Dark glass vials are also practical for preventing biological activity from light activation.    Transport and Storage  Fill directly from the source or from a secondary container. During sampling, storage, and transportation to the laboratory, take care to avoid evaporation of the sample. Wrapping a small strip of parafilm or tape around the cap skirt and bottleneck helps stop the caps from loosening during transport and/or storage. Refrigerate samples for transport and upon arrival if possible (a cooler with ice packs is fine).   Comments No sample filtration or preservation is required. Minimally coarse filter sample in the field, in the case of sediment and organic material (i.e. algae). Flush the sample bottle a minimum of 3 times with the sample. In the case of a well, after recording the water level, purge the well with a pump. In general, three well volumes should be pumped out before samples are collected.  
+
+
+## References 
+1. This document is drawn from [A quick guide to the collection and sampling of water for the analysis of stable isotopes of hydrogen and oxygen in the water molecule] (https://watson-cost.eu/wp-content/uploads/2025/04/DOC_WATSON_WG3-quick-guide-to-sampling-for-stable-isotopes-of-water_241016_0.2.pdf)  
+2. Ceperley, N., Gimeno, T. E., Jacobs, S. R., Beyer, M., Dubbert, M., Fischer, B., Geris, J., Holko, L., Kübert, A., Le Gall, S., Lehmann, M. M., Llorens, P., Millar, C., Penna, D., Prieto, I., Radolinski, J., Scandellari, F., Stockinger, M., Stumpp, C., Tetzlaff, D., van Meerveld, I., Werner, C., Yildiz, O., Zuecco, G., Barbeta, A., Orlowski, N., & Rothfuss, Y. (2024) Toward a common methodological framework for the sampling, extraction, and isotopic analysis of water in the Critical Zone to study vegetation water use. WIREs Water, e1727. DOI: 10.1002/wat2.1727. Eicken, H., Bluhm, B. A., Collins, R. E., Gradinger, R. R., Haas, C., Ingham, M., Mahoney, A., Nicolaus, M., & Perovich, D. (2014) Field Techniques in Sea-Ice Research, 1–19. https://www.jstor.org/stable/jj.1176824. 
+3. Gröning, M., Lutz, H. O., Roller-lutz, Z., Kralik, M., Gourcy, L., & Pöltenstein, L. (2012) A simple rain collector preventing water re-evaporation dedicated for δ18O and δ2H analysis of cumulative precipitation samples. Journal of Hydrology, 448–449, 195–200. DOI: 10.1016/j.jhydrol.2012.04.041. 
+4. Kattelmann, R. (2000) Snowmelt lysimeters in the evaluation of snowmelt models. Annals of Glaciology, 31, 405–410. DOI: 10.3189/172756400781820048. 
+5. Penna, D., Ahmad, M., Birks, S. J., Bouchaou, L., Brenčič, M., Butt, S., Holko, L., Jeelani, G., Martínez, D. E., Melikadze, G., Shanley, J. B., Sokratov, S. A., Stadnyk, T., Sugimoto, A., & Vreča, P. (2014) A new method of snowmelt sampling for water stable isotopes. Hydrological Processes, 28(22), 5637–5644. DOI: 10.1002/hyp.10273. 
+6. Prada, S., Figueira, C., Aguiar, N., & Cruz, J. V. (2015) Stable isotopes in rain and cloud water in Madeira: contribution for the hydrogeologic framework of a volcanic island. Environmental Earth Sciences, 73(6), 2733–2747. DOI: 10.1007/s12665-014-3270-1. 
+7. Rücker, A., Boss, S., Kirchner, J., von Freyberg, J. (2019) Monitoring snowpack outflow volumes and their isotopic composition to better understand streamflow generation during rain-on-snow events. Hydrol. Earth Syst. Sci., 23, 2983–3005. DOI: 10.5194/hess-23-2983-2019. 
+8. USGS (2006) Collection of Water Samples (ver. 2.0): U.S. Geological Survey Techniques and Methods, book 9, chapter A4. DOI: 10.3133/twri09A4. 
+9. USGS (2018a) General introduction for the National Field Manual for the Collection of WaterQuality Data (ver. 1.1): U.S. Geological Survey Techniques and Methods, book 9, chapter A0. DOI: 10.3133/tm9A0. 
+10. USGS (2018b) Lakes and reservoirs—Guidelines for study design and sampling: U.S. Geological Survey Techniques and Methods, book 9, chapter A10. DOI: 10.3133/tm9a10. 
+11. von Freyberg, J., L. A. Knapp, J., Rücker, A., & W. Kirchner, J. (2020) Technical note: Evaluation of a low- cost evaporation protection method for portable water samplers. Hydrology and Earth System Sciences, 24(12), 5821–5834. DOI: 10.5194/hess-24-5821-2020.
