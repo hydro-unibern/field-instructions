@@ -15,14 +15,45 @@ execute:
 
 ## Goal 
 
+# Interchangable Probes - choose 7  
+1. Wiped Conductivity / Temperature  (always need)
+2. Dissolved Oxygen (optical)
+3. fDOM (dissolved organic matter)
+4. (also 5.) ISEs: Ammonium, Nitrate, & Chloride (benefit from photometer, Ammonium needs pH)
+6. NitraLED UV Nitrate (needs Turbidity)
+7. pH (required by Ammonium)
+8. Turbidity (needed by NitraLED)
+9. EXO Central Wiper (Special for NitraLED, replaces man brush)
+
+Additional: 
+- Alignment Ring
+- Magnetic Key
+- USB cable
+
 ## Equiment
+
+* EXO2 (big blue cylinder)
+* Selection of Probes
+* All callibration solutions
+* Protection / Callibration bucket
+* Magnetic key
+* Field computer or tablet with correct software
+* Portable field spectrometer for field nitrate, ammonium, and chloride calibration (Photometer pHotoLab® S6-A) 
+
 
 ## Preparation
 
+* Callibration of all probes in lab 
+* Charge or replace batteries
+
 ## Field Steps
+
+
 
 ## Follow-up 
 
 ## Tips 
 
 ## References
+
+1. [Exo Probe Manual, YSI](supportdocumentation/exo-user-manual-web.pdf)
